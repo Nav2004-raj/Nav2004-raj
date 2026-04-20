@@ -70,7 +70,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nav2004-raj/Nav2004-raj/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nav2004-raj/Nav2004-raj/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nav2004-raj/Nav2004-raj/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="![Pacman Contribution Graph](https://raw.githubusercontent.com/Nav2004-raj/Nav2004-raj/output/pacman.svg)">
 </picture>
 
 ###
