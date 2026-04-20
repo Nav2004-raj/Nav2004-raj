@@ -46,7 +46,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://x.com/NavneetRaj2004" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
@@ -67,7 +67,11 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Nav2004-raj/Nav2004-raj/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nav2004-raj/Nav2004-raj/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nav2004-raj/Nav2004-raj/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nav2004-raj/Nav2004-raj/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
