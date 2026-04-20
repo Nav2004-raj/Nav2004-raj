@@ -67,10 +67,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Nav2004-raj/Nav2004-raj/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Nav2004-raj.Nav2004-raj&"  />
 </div>
