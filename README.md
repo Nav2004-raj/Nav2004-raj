@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since (and fixing them) since 2024<br>📚 Currently Learning: React.JS<br>🎒Projects: Movie App, Tic Tac Toe Game, Pokedex App<br>⚡Tech Stack: JavaScript, React, Redux, Next.JS, Tailwind CSS<br>🧠Strong focus on: Core fundamentals, clean code, and problem solving<br>🎯Goals: Become a Full Stack Developer<br>🤝Open to: Internships, collaborations, and real-world projects</p>
+<p align="left">✨ Creating bugs (and fixing them) since 2024<br>📚 Currently Learning: React.JS<br>🎒Projects: Movie App, Tic Tac Toe Game, Pokedex App<br>⚡Tech Stack: JavaScript, React, Redux, Next.JS, Tailwind CSS<br>🧠Strong focus on: Core fundamentals, clean code, and problem solving<br>🎯Goals: Become a Full Stack Developer<br>🤝Open to: Internships, collaborations, and real-world projects</p>
 
 ###
 
